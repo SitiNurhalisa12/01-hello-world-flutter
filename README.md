@@ -1,9 +1,13 @@
 # hello_world
-NIM     : 2031710078 /n
-Nama    : Siti Nurhalisa /n
-Kelas   : MI 2C /n
-Prodi   : D3 Manajemen Informatika /n
-Jurusan : Teknologi Informasi /n
+NIM     : 2031710078
+
+Nama    : Siti Nurhalisa
+
+Kelas   : MI 2C 
+
+Prodi   : D3 Manajemen Informatika 
+
+Jurusan : Teknologi Informasi 
 
 ## Getting Started
 
